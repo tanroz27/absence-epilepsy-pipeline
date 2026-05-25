@@ -2,6 +2,8 @@
 ### Pre-ictal Pupil Dynamics as Predictors of Absence Seizures
 **Replicates Nestvogel & McCormick (2022) Figure 5F + pre-ictal pupil analysis**
 
+Notice - this code was translated from Nestvogel & McCormick 2022 using Claude.ai, then fact-checked.
+
 ---
 
 ## Setup
